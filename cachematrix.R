@@ -1,4 +1,4 @@
-## Functions compute for the inverse of a given_matrix and cache it.
+## Function compute for the inverse of the given_matrix and cache it.
 
 ## This function gets a cache of an inverse of a matrix
 
